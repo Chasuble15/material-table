@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "material-table"
+  "defaultProject": "material-table",
+  "cli": {
+    "analytics": false
+  }
 }
